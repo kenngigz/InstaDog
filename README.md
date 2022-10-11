@@ -1,3 +1,3 @@
 InstaDog Starting Files
 
-// Experimental
+//Meet new and interesting dogs nearby.//
