@@ -1,1 +1,1 @@
-TinDog Starting Files
+InstaDog Starting Files
